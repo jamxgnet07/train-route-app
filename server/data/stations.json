@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Chennai Egmore",
+    "code": "MS",
+    "lat": 13.0797,
+    "lng": 80.2611
+  },
+  {
+    "name": "Chennai Central",
+    "code": "MAS",
+    "lat": 13.0827,
+    "lng": 80.2707
+  },
+  {
+    "name": "Tambaram",
+    "code": "TBM",
+    "lat": 12.9249,
+    "lng": 80.1275
+  },
+  {
+    "name": "Thanjavur",
+    "code": "TJ",
+    "lat": 10.7869,
+    "lng": 79.1378
+  },
+  {
+    "name": "Kumbakonam",
+    "code": "KMU",
+    "lat": 10.9601,
+    "lng": 79.3845
+  },
+  {
+    "name": "Papanasam",
+    "code": "PML",
+    "lat": 10.9263,
+    "lng": 79.2709
+  },
+  {
+    "name": "Ayyampet",
+    "code": "AZP",
+    "lat": 10.9019,
+    "lng": 79.1798
+  }
+]

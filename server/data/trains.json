@@ -1,0 +1,38 @@
+[
+  {
+    "trainNumber": "22675",
+    "trainName": "Cholan Express",
+    "from": "MS",
+    "to": "TJ",
+    "departureTime": "07:45",
+    "arrivalTime": "14:25",
+    "duration": "06:40"
+  },
+  {
+    "trainNumber": "16865",
+    "trainName": "Uzhavan Express",
+    "from": "MS",
+    "to": "TJ",
+    "departureTime": "21:00",
+    "arrivalTime": "04:30",
+    "duration": "07:30"
+  },
+  {
+    "trainNumber": "16175",
+    "trainName": "Karaikal Express",
+    "from": "MS",
+    "to": "KMU",
+    "departureTime": "21:10",
+    "arrivalTime": "05:15",
+    "duration": "08:05"
+  },
+  {
+    "trainNumber": "12693",
+    "trainName": "Pearl City Express",
+    "from": "MS",
+    "to": "TJ",
+    "departureTime": "19:30",
+    "arrivalTime": "02:15",
+    "duration": "06:45"
+  }
+]
