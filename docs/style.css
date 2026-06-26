@@ -200,6 +200,8 @@ input {
 }
 
 .primary-btn {
+    box-sizing: border-box;
+    outline: none;
   border: none;
   background: var(--primary);
   color: white;
